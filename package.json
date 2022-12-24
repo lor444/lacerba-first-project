@@ -1,0 +1,27 @@
+{
+  "name": "first-node-project",
+  "version":"1.0.0",
+  "description": "First Node Project",
+  "main": "main.js",
+  "script": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keyword": [
+    "lacerba"
+  ],
+  "author": "ludusrusso",
+  "license": "ISC"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
