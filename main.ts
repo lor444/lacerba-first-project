@@ -13,11 +13,12 @@ interface MyInterface {
 
 let myInterface: MyInterface = {
   myNumber: 10,
-  myString: 'Hello world',
+  myString: 'ciao',
 };
 
-console.log('myNumber = ', myInterface.myNumber);
-console.log('myString = ', myInterface.myString);
+// ciao
+console.log('myNewVariable = ', myInterface.myNumber);
+
 
 
 
