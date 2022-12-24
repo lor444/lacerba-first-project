@@ -9,8 +9,11 @@
   "keyword": [
     "lacerba"
   ],
-  "author": "ludusrusso",
-  "license": "ISC"
+  "author": "lorenzo alemanno",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/lor444/lacerba-first-project"
+  }
 }
 
 
